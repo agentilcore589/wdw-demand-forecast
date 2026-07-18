@@ -1,0 +1,5 @@
+date,park_name,avg_wait,max_wait,n_observations,day_of_week,is_weekend,week_of_year,temp_max_f,precip_prob_max,is_federal_holiday,is_school_break,is_rundisney,is_mk_party,is_other_event
+2026-07-18,Animal Kingdom,14.25,65.0,20,Sat,1,29,,,0,0,0,0,0
+2026-07-18,Disney Hollywood Studios,18.7,65.0,23,Sat,1,29,,,0,0,0,0,0
+2026-07-18,Disney Magic Kingdom,16.1,60.0,41,Sat,1,29,,,0,0,0,0,0
+2026-07-18,Epcot,17.5,80.0,20,Sat,1,29,,,0,0,0,0,0
