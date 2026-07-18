@@ -1,0 +1,37 @@
+name: Pull WDW data
+
+on:
+  schedule:
+    # Every 2 hours from 8am to 10pm Eastern (12:00-02:00 UTC during EDT).
+    # Frequent intraday pulls = richer wait-time curves per day.
+    - cron: "0 12,14,16,18,20,22,0,2 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pull wait times
+        run: python pipeline/pull_waits.py
+
+      - name: Pull weather (once daily, on the 12:00 UTC run)
+        if: github.event.schedule == '0 12,14,16,18,20,22,0,2 * * *'
+        run: python pipeline/pull_weather.py
+        continue-on-error: true
+
+      - name: Commit data
+        run: |
+          git config user.name "data-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "data: $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push
