@@ -3851,3 +3851,110 @@ pulled_at_utc,park_id,park_name,ride_id,ride_name,is_open,wait_time_min,last_upd
 2026-07-23T17:15:07.580984+00:00,5,Epcot,6701,Meet Anna and Elsa at Royal Sommerhus,True,45,2026-07-23T17:10:16.000Z
 2026-07-23T17:15:07.580984+00:00,5,Epcot,10914,Remy's Ratatouille Adventure,True,45,2026-07-23T17:10:16.000Z
 2026-07-23T17:15:07.580984+00:00,5,Epcot,10915,Remy's Ratatouille Adventure Single Rider,True,0,2026-07-23T17:10:16.000Z
+2026-07-23T19:06:45.556551+00:00,8,Animal Kingdom,657,Festival of the Lion King,True,0,2026-07-23T19:05:32.000Z
+2026-07-23T19:06:45.556551+00:00,8,Animal Kingdom,651,Gorilla Falls Exploration Trail,True,5,2026-07-23T19:05:32.000Z
+2026-07-23T19:06:45.556551+00:00,8,Animal Kingdom,113,Kilimanjaro Safaris,True,10,2026-07-23T19:05:32.000Z
+2026-07-23T19:06:45.556551+00:00,8,Animal Kingdom,655,Wildlife Express Train,True,15,2026-07-23T19:05:32.000Z
+2026-07-23T19:06:45.556551+00:00,8,Animal Kingdom,110,Expedition Everest - Legend of the Forbidden Mountain,False,0,2026-07-23T19:05:32.000Z
+2026-07-23T19:06:45.556551+00:00,8,Animal Kingdom,14533,Expedition Everest - Legend of the Forbidden Mountain Single Rider,False,0,2026-07-23T19:05:32.000Z
+2026-07-23T19:06:45.556551+00:00,8,Animal Kingdom,10921,Feathered Friends in Flight!,True,0,2026-07-23T19:05:32.000Z
+2026-07-23T19:06:45.556551+00:00,8,Animal Kingdom,112,Kali River Rapids,True,70,2026-07-23T19:05:32.000Z
+2026-07-23T19:06:45.556551+00:00,8,Animal Kingdom,13806,Animal Care at Conservation Station,True,0,2026-07-23T19:05:32.000Z
+2026-07-23T19:06:45.556551+00:00,8,Animal Kingdom,16545,Bluey's Wild World at Conservation Station,True,10,2026-07-23T19:05:32.000Z
+2026-07-23T19:06:45.556551+00:00,8,Animal Kingdom,10920,Finding Nemo: The Big Blue... and Beyond!,True,0,2026-07-23T19:05:32.000Z
+2026-07-23T19:06:45.556551+00:00,8,Animal Kingdom,13811,Discovery Island Trails,True,0,2026-07-23T19:05:32.000Z
+2026-07-23T19:06:45.556551+00:00,8,Animal Kingdom,116,Meet Favorite Disney Pals at Adventurers Outpost,True,20,2026-07-23T19:05:32.000Z
+2026-07-23T19:06:45.556551+00:00,8,Animal Kingdom,12451,Meet Moana at Character Landing,True,0,2026-07-23T19:05:32.000Z
+2026-07-23T19:06:45.556551+00:00,8,Animal Kingdom,13751,Tree of Life,True,0,2026-07-23T19:05:32.000Z
+2026-07-23T19:06:45.556551+00:00,8,Animal Kingdom,14943,Zootopia: Better Zoogether!,True,10,2026-07-23T19:05:32.000Z
+2026-07-23T19:06:45.556551+00:00,8,Animal Kingdom,4439,Avatar Flight of Passage,True,65,2026-07-23T19:05:32.000Z
+2026-07-23T19:06:45.556551+00:00,8,Animal Kingdom,4438,Na'vi River Journey,True,40,2026-07-23T19:05:32.000Z
+2026-07-23T19:06:45.556551+00:00,8,Animal Kingdom,13812,The Oasis Exhibits,True,0,2026-07-23T19:05:32.000Z
+2026-07-23T19:06:45.556551+00:00,8,Animal Kingdom,13808,Wilderness Explorers,True,0,2026-07-23T19:05:32.000Z
+2026-07-23T19:06:45.675171+00:00,7,Disney Hollywood Studios,16641,Disney Jr. Mickey Mouse Clubhouse Live!,True,0,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.675171+00:00,7,Disney Hollywood Studios,12430,Meet Ariel at Walt Disney Presents,True,0,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.675171+00:00,7,Disney Hollywood Studios,14859,The Little Mermaid – A Musical Adventure,True,0,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.675171+00:00,7,Disney Hollywood Studios,5145,Walt Disney Presents,True,0,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.675171+00:00,7,Disney Hollywood Studios,6704,Meet Disney Stars at Red Carpet Dreams,True,40,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.675171+00:00,7,Disney Hollywood Studios,1174,For the First Time in Forever: A Frozen Sing-Along Celebration,True,0,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.675171+00:00,7,Disney Hollywood Studios,6702,Indiana Jones™ Epic Stunt Spectacular!,True,0,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.675171+00:00,7,Disney Hollywood Studios,6703,Meet Olaf at Celebrity Spotlight,True,20,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.675171+00:00,7,Disney Hollywood Studios,120,Star Tours – The Adventures Continue,True,10,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.675171+00:00,7,Disney Hollywood Studios,7333,Vacation Fun - An Original Animated Short with Mickey & Minnie,True,10,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.675171+00:00,7,Disney Hollywood Studios,6361,Mickey & Minnie's Runaway Railway,False,0,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.675171+00:00,7,Disney Hollywood Studios,12425,Meet Edna Mode at the Edna Mode Experience,False,0,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.675171+00:00,7,Disney Hollywood Studios,117,Toy Story Mania!,True,55,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.675171+00:00,7,Disney Hollywood Studios,6368,Millennium Falcon: Smugglers Run,True,60,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.675171+00:00,7,Disney Hollywood Studios,10902,Millennium Falcon: Smugglers Run Single Rider,True,0,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.675171+00:00,7,Disney Hollywood Studios,6369,Star Wars: Rise of the Resistance,False,0,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.675171+00:00,7,Disney Hollywood Studios,14531,Star Wars: Rise of the Resistance Single Rider,False,0,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.675171+00:00,7,Disney Hollywood Studios,1176,Beauty and the Beast – Live on Stage,True,0,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.675171+00:00,7,Disney Hollywood Studios,16343,Rock 'n' Roller Coaster Starring Aerosmith Single Rider,True,0,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.675171+00:00,7,Disney Hollywood Studios,16342,Rock ’n’ Roller Coaster Starring The Muppets,True,60,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.675171+00:00,7,Disney Hollywood Studios,123,The Twilight Zone™ Tower of Terror,True,40,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.675171+00:00,7,Disney Hollywood Studios,5477,Alien Swirling Saucers,True,45,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.675171+00:00,7,Disney Hollywood Studios,5476,Slinky Dog Dash,True,70,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,1184,A Pirate's Adventure ~ Treasures of the Seven Seas,True,0,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,134,Jungle Cruise,True,40,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,137,Pirates of the Caribbean,False,0,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,355,Swiss Family Treehouse,True,5,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,141,The Magic Carpets of Aladdin,True,5,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,334,Walt Disney's Enchanted Tiki Room,True,10,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,133,"""it's a small world""",True,15,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,13764,Casey Jr. Splash 'N' Soak Station,True,0,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,13763,Cinderella Castle,True,0,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,132,Dumbo the Flying Elephant,True,5,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,128,Enchanted Tales with Belle,True,15,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,135,Mad Tea Party,True,10,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,147,Meet Ariel at Her Grotto,True,25,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,6700,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,True,35,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,144,Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow,True,10,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,145,Meet Dashing Disney Pals as Circus Stars at Pete's Silly Sideshow,True,20,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,6699,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,True,30,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,171,Mickey's PhilharMagic,True,10,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,136,Peter Pan's Flight,True,45,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,161,Prince Charming Regal Carrousel,True,5,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,129,Seven Dwarfs Mine Train,True,50,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,126,The Barnstormer,True,10,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,142,The Many Adventures of Winnie the Pooh,True,45,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,127,Under the Sea - Journey of The Little Mermaid,True,10,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,1181,Walt Disney World Railroad - Fantasyland,True,20,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,130,Big Thunder Mountain Railroad,True,40,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,1214,Country Bear Musical Jamboree,True,10,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,16650,Jessie’s Roundup: A Rip-Roarin’ Revue!,True,0,2026-07-20T21:01:05.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,13630,Tiana's Bayou Adventure,False,0,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,140,Haunted Mansion,True,20,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,356,The Hall of Presidents,True,15,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,1188,Main Street Vehicles,True,0,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,146,Meet Mickey at Town Square Theater,True,10,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,1189,"Walt Disney World Railroad - Main Street, U.S.A.",True,20,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,248,Astro Orbiter,True,15,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,131,Buzz Lightyear’s Space Ranger Spin,True,35,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,125,"Monsters, Inc. Laugh Floor",True,10,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,138,Space Mountain,True,40,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,143,Tomorrowland Speedway,True,5,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,1190,Tomorrowland Transit Authority PeopleMover,True,10,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,11527,TRON Lightcycle / Run,True,90,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.806409+00:00,6,Disney Magic Kingdom,457,Walt Disney's Carousel of Progress,False,0,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.925746+00:00,5,Epcot,2495,Disney and Pixar Short Film Festival,True,0,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.925746+00:00,5,Epcot,16649,GoofyCore at CommuniCore Hall,True,0,2026-07-20T21:01:00.000Z
+2026-07-23T19:06:45.925746+00:00,5,Epcot,155,Journey Into Imagination With Figment,True,15,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.925746+00:00,5,Epcot,13627,Meet Beloved Disney Pals at Mickey & Friends,True,10,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.925746+00:00,5,Epcot,159,Spaceship Earth,True,15,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.925746+00:00,5,Epcot,10916,Guardians of the Galaxy: Cosmic Rewind,True,65,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.925746+00:00,5,Epcot,158,Mission: SPACE,True,15,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.925746+00:00,5,Epcot,160,Test Track,True,105,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.925746+00:00,5,Epcot,10900,Test Track Presented by Chevrolet Single Rider,True,0,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.925746+00:00,5,Epcot,7323,Awesome Planet,True,0,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.925746+00:00,5,Epcot,12387,"Journey of Water, Inspired by Moana",True,0,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.925746+00:00,5,Epcot,156,Living with the Land,False,0,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.925746+00:00,5,Epcot,13782,SeaBase Aquarium,True,0,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.925746+00:00,5,Epcot,16467,Soarin' Across America,True,40,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.925746+00:00,5,Epcot,153,The Seas with Nemo & Friends,True,10,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.925746+00:00,5,Epcot,152,Turtle Talk With Crush,True,15,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.925746+00:00,5,Epcot,829,Canada Far and Wide in Circle-Vision 360,True,15,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.925746+00:00,5,Epcot,2679,Frozen Ever After,True,20,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.925746+00:00,5,Epcot,466,Gran Fiesta Tour Starring The Three Caballeros,True,15,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.925746+00:00,5,Epcot,6701,Meet Anna and Elsa at Royal Sommerhus,True,25,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.925746+00:00,5,Epcot,10914,Remy's Ratatouille Adventure,True,50,2026-07-23T19:05:23.000Z
+2026-07-23T19:06:45.925746+00:00,5,Epcot,10915,Remy's Ratatouille Adventure Single Rider,True,0,2026-07-23T19:05:23.000Z
